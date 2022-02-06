@@ -37,9 +37,6 @@ Ensure you have the following installed on your local machine:
 - [NodeJS](https://nodejs.org/en/download/)
 - MongoDB
 
-### Installing/Run locally
-
-
 ### HTTP Response Codes
 
 Each response will be returned with one of the following HTTP status codes:
@@ -52,6 +49,15 @@ Each response will be returned with one of the following HTTP status codes:
 
 ## Documentation
 
+1. 
+
+2.
+
+3.
+
+4.
+
+5.
 
 ## License
 
