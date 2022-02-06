@@ -1,4 +1,4 @@
-# The Stackoverflow clone API
+# Credence Analytics - REST- API - Assignment
 
 ## Project Overview
 
