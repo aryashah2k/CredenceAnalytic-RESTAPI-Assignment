@@ -59,15 +59,30 @@ Each response will be returned with one of the following HTTP status codes:
 
 ## Documentation
 
-1. 
+1. GET 
 
-2.
+![GET](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET.png)
 
-3.
+![GET2](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET2.png)
 
-4.
+2. GET by ID
 
-5.
+![GET by ID](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET by ID.png)
+
+3. POST
+
+![POST](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/POST.png)
+
+4. UPDATE by ID
+
+![Update](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/UPDATE by ID.png)
+
+5. GET After DELETE
+
+![GET after Delete](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET after DELETE.png)
+
+6. SEARCH after DELETE
+![Search](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/SEARCH after DELETE.png)
 
 ## License
 
