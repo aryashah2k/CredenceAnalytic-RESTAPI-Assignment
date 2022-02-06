@@ -63,11 +63,11 @@ Each response will be returned with one of the following HTTP status codes:
 
 ![GET](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET.PNG)
 
-![GET2](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET 2.PNG)
+![GET2](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET%202.PNG)
 
 2. GET by ID
 
-![GETbyID](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET by ID.PNG)
+![GETbyID](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET%20by%20ID.PNG)
 
 3. POST
 
@@ -75,14 +75,14 @@ Each response will be returned with one of the following HTTP status codes:
 
 4. UPDATE by ID
 
-![Update](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/UPDATE by ID.PNG)
+![Update](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/UPDATE%20by%20ID.PNG)
 
 5. GET After DELETE
 
-![GETafterDelete](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET after DELETE.PNG)
+![GETafterDelete](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/GET%20after%20DELETE.PNG)
 
 6. SEARCH after DELETE
-![Search](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/SEARCH after DELETE.PNG)
+![Search](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/SEARCH%20after%20DELETE.PNG)
 
 ## License
 
