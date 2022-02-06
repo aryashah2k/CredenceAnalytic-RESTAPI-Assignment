@@ -1,5 +1,7 @@
 # Credence Analytics - REST- API - Assignment
 
+![Logo](https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment/blob/main/assets/Logo.jpg)
+
 ## Project Overview
 
 REST API Server
@@ -12,7 +14,15 @@ REST API Server
 
 ## Features
 
-1.
+1. List all Movies in the Database
+
+2. Get Movies by ID
+
+3. Update Movies by ID
+
+4. Delete Movies by ID
+
+
 
 Github:  https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment
 
