@@ -2,7 +2,13 @@
 
 ## Project Overview
 
+REST API Server
 
+● You’ll need to create an API server with CRUD based routes using NodeJS/Python
+
+● Using your API, users can Create, Read, Update or Delete data from the database.
+
+● Use MongoDB to store the following data to get you started.
 
 ## Features
 
@@ -17,6 +23,12 @@ Github:  https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment
 - MongoDB
 
 ## Getting Started
+
+● Clone repository into local machine
+
+● From the current directory run `npm run start` to start the server
+
+● Use Postman or any other API testing software to test the CRUD operations
 
 ### Prerequisites
 
