@@ -8,7 +8,7 @@
 
 1.
 
-Github:  https://github.com/khoded/StackOverflow-Clone
+Github:  https://github.com/aryashah2k/CredenceAnalytic-RESTAPI-Assignment
 
 ## Technologies Used
 
